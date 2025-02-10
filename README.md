@@ -23,7 +23,7 @@ Solving an optimization problem for building structures using a functional progr
 Simulation of people evacuating a building using concurrent programming, threads, and inter-process communication. We designed two separate processes—one for simulation and another for collecting data at the assembly point—ensuring correct synchronization and avoiding deadlocks.
 
 ## Technologies Used
-Java 
-Functional programming principles
-Concurrent programming and synchronization
-Custom generic implementations
+- Java 
+- Functional programming principles
+- Concurrent programming and synchronization
+- Custom generic implementations
